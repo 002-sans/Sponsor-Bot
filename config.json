@@ -1,13 +1,10 @@
 {
     "token": "",
     "prefix": "!",
-    "emoji": "- ",
-    
+    "emoji": "",
     "wlrole": "",
     "helperRole": "",
-    "guildId": "",
-    "logChannel": "",
-
+    "category": "",
     "embedColor": "FF0000",
     "helpimg": "https://i.imgur.com/1VVAVo5.gif",
     "m_AlreadyPubing_title": ":x: Une publicité est déjà en cours dans ce salon",
